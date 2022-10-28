@@ -1,0 +1,15 @@
+/* Custom CSS goes here */
+body {
+  padding-bottom: 70px;
+  font-size: 19pt;
+  background-color: beige;
+  
+  }
+  .test{
+    text-align: center;
+  }
+  h2{
+    color:blue;
+  }
+  
+
